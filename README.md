@@ -5,5 +5,4 @@
 ## Sobre o projeto
 
 Projeto criado a para fins de estudo de algoritimos de machine learning como Decision Tree e k-Nearest Neighbors (KNN). 
-## Processo
 
